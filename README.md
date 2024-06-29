@@ -24,14 +24,10 @@ Here are some screenshots of the Case Baniya website:
 ### Home Page
 ![Home Page](images/screenshots/home.png)
 
-### Store Page
-![Store Page](images/screenshots/store.png)
 
 ### iPhones Page
 ![iPhones Page](images/screenshots/iPhones.png)
 
-### Watches Page
-![Watches Page](images/screenshots/watches.png)
 
 
 
